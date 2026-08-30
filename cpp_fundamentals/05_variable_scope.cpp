@@ -24,10 +24,12 @@ int main()
 /*
     Here,
 
-    phonePassword is a local variable.
-    It can only be used inside main().
+    phonePassword is a local variable
+    It can only be used inside main()
 
-    wifiPassword is a global variable.
+    wifiPassword is a global variable
     It can be accessed from different functions
-    because it is declared outside all functions.
+    because it is declared outside all functions
+
+    Also, you can use global and local variables with the same name, but the local variable will take precedence over the global variable in its scope
 */
