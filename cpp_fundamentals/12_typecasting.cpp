@@ -30,4 +30,6 @@ int main() {
     int c = int(b);
 
     cout << "The value of c is " << c << endl;
+
+    return 0;
 }                                   
