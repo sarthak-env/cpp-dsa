@@ -40,4 +40,6 @@ int main(){
     cout<<"Is a greater than b OR a less than 20? "<<((a>b) || (a<20))<<endl; // Logical OR
     cout<<"Is a NOT equal to b? "<<!(a==b)<<endl; // Logical NOT
     cout<<endl;
+
+    return 0;
 }
