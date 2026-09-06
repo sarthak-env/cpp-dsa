@@ -21,4 +21,6 @@ int main(){
     else{
         cout<<"Invalid input. Sides must be positive integers."<<endl;
     }
+
+    return 0;
 }

@@ -17,22 +17,22 @@ Check a box once you've solved it. Add a link next to a checked item once you ha
 
 ### Level 1 — Simple Conditions (Getting Started)
 
-- [ ] **Positive, negative, or zero.** Take a single number and print which of the three buckets it falls into. This is the "hello world" of conditionals — get comfortable with `if / else if / else` here before anything else.
-- [ ] **Even or odd.** Use the modulo operator (`%`) to check divisibility by 2. This is the first time you'll really *feel* what `%` is for.
-- [ ] **Divisible by 5.** Same idea as above, but notice how the logic barely changes — just the divisor. Good moment to notice patterns in your own code.
-- [ ] **Divisible by both 3 and 5.** Now combine two conditions with `&&`. Think about what happens if you check them one at a time vs. combined.
-- [ ] **Leap year check.** The classic "looks simple, has a trap" problem. A year is a leap year if divisible by 4, *except* century years, *unless* divisible by 400. Get this wrong once, learn it forever.
-- [ ] **Larger of two numbers.** Compare `a` and `b` and print whichever is bigger. Trivial on its own, but it's the seed of every "find the max" problem you'll ever write.
-- [ ] **Largest of three numbers.** Now you have to think about ordering — do you compare pairs, or use nested conditions? Try it more than one way.
-- [ ] **Temperature → cold/warm/hot.** Take a numeric temperature and classify it into a range. This introduces "bucketing" a continuous value — very common in real applications (grading, pricing tiers, etc.).
-- [ ] **Vowel or consonant.** Take a character and check it against `a, e, i, o, u`. Think about whether you want to handle both uppercase and lowercase input.
-- [ ] **Uppercase / lowercase / digit / special char.** Classify a single character into one of four categories. This is your first taste of ASCII-range thinking (`'A'-'Z'`, `'a'-'z'`, `'0'-'9'`).
+- [x] **Positive, negative, or zero.** Take a single number and print which of the three buckets it falls into. This is the "hello world" of conditionals — get comfortable with `if / else if / else` here before anything else.
+- [x] **Even or odd.** Use the modulo operator (`%`) to check divisibility by 2. This is the first time you'll really *feel* what `%` is for.
+- [x] **Divisible by 5.** Same idea as above, but notice how the logic barely changes — just the divisor. Good moment to notice patterns in your own code.
+- [x] **Divisible by both 3 and 5.** Now combine two conditions with `&&`. Think about what happens if you check them one at a time vs. combined.
+- [x] **Leap year check.** The classic "looks simple, has a trap" problem. A year is a leap year if divisible by 4, *except* century years, *unless* divisible by 400. Get this wrong once, learn it forever.
+- [x] **Larger of two numbers.** Compare `a` and `b` and print whichever is bigger. Trivial on its own, but it's the seed of every "find the max" problem you'll ever write.
+- [x] **Largest of three numbers.** Now you have to think about ordering — do you compare pairs, or use nested conditions? Try it more than one way.
+- [x] **Temperature → cold/warm/hot.** Take a numeric temperature and classify it into a range. This introduces "bucketing" a continuous value — very common in real applications (grading, pricing tiers, etc.).
+- [x] **Vowel or consonant.** Take a character and check it against `a, e, i, o, u`. Think about whether you want to handle both uppercase and lowercase input.
+- [x] **Uppercase / lowercase / digit / special char.** Classify a single character into one of four categories. This is your first taste of ASCII-range thinking (`'A'-'Z'`, `'a'-'z'`, `'0'-'9'`).
 
 ### Level 2 — Nested If & Multiple Conditions
 
-- [ ] **Valid triangle from three sides.** Given three side lengths, check if they can actually form a triangle (triangle inequality: each side must be less than the sum of the other two).
-- [ ] **Triangle type: equilateral/isosceles/scalene.** Once you know it's a valid triangle, classify it by how many sides are equal. Good practice chaining conditions logically.
-- [ ] **Marks → grade (A/B/C/D/F).** A classic grading-scale problem. Pay attention to the *order* you check your ranges in — get it backwards and everything grades wrong.
+- [x] **Valid triangle from three sides.** Given three side lengths, check if they can actually form a triangle (triangle inequality: each side must be less than the sum of the other two).
+- [x] **Triangle type: equilateral/isosceles/scalene.** Once you know it's a valid triangle, classify it by how many sides are equal. Good practice chaining conditions logically.
+- [x] **Marks → grade (A/B/C/D/F).** A classic grading-scale problem. Pay attention to the *order* you check your ranges in — get it backwards and everything grades wrong.
 - [ ] **One number a multiple of the other.** Given two numbers, check if either one divides the other evenly.
 - [ ] **Hour → good morning/afternoon/evening/night.** Take a 24-hour value and bucket it into a greeting. Think carefully about your boundary hours (is 12 PM "afternoon" or "morning"?).
 - [ ] **Voting eligibility (18+).** Dead simple on the surface — a good spot to also think about "what if age is negative or absurdly large" as a mental exercise, even if you don't code for it yet.

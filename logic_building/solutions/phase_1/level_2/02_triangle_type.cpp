@@ -7,7 +7,7 @@ using namespace std;
 
 int main(){
     int side_1, side_2, side_3;
-    cout<<"Enter the three sides of the triangle: ";
+    cout<<"Enter the three sides of the triangle: "<<endl;
     cin>>side_1>>side_2>>side_3;
 
     if(side_1>0 && side_2>0 && side_3>0){
@@ -31,4 +31,6 @@ int main(){
     else{
         cout<<"Invalid input. Sides must be positive integers."<<endl;
     }
+
+    return 0;
 }
