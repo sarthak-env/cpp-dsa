@@ -33,8 +33,8 @@ Check a box once you've solved it. Add a link next to a checked item once you ha
 - [x] **Valid triangle from three sides.** Given three side lengths, check if they can actually form a triangle (triangle inequality: each side must be less than the sum of the other two).
 - [x] **Triangle type: equilateral/isosceles/scalene.** Once you know it's a valid triangle, classify it by how many sides are equal. Good practice chaining conditions logically.
 - [x] **Marks → grade (A/B/C/D/F).** A classic grading-scale problem. Pay attention to the *order* you check your ranges in — get it backwards and everything grades wrong.
-- [ ] **One number a multiple of the other.** Given two numbers, check if either one divides the other evenly.
-- [ ] **Hour → good morning/afternoon/evening/night.** Take a 24-hour value and bucket it into a greeting. Think carefully about your boundary hours (is 12 PM "afternoon" or "morning"?).
+- [x] **One number a multiple of the other.** Given two numbers, check if either one divides the other evenly.
+- [x] **Hour → good morning/afternoon/evening/night.** Take a 24-hour value and bucket it into a greeting. Think carefully about your boundary hours (is 12 PM "afternoon" or "morning"?).
 - [ ] **Voting eligibility (18+).** Dead simple on the surface — a good spot to also think about "what if age is negative or absurdly large" as a mental exercise, even if you don't code for it yet.
 - [ ] **Both even, both odd, or mixed.** Given two numbers, classify the *pair*, not just each number individually. This is your first taste of combined-state logic.
 - [ ] **Char between a-m or n-z.** Split the alphabet in half and check which half a letter falls in.
