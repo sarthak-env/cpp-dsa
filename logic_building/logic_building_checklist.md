@@ -31,8 +31,8 @@ Topics covered: Relational operators, logical operators, nested if, multiple con
 - [x] 4. Check if one of two given numbers is a multiple of the other.
 - [x] 5. Take the hour of the day (0–23) and print "Good Morning", "Good Afternoon", "Good Evening", or "Good Night".
 - [x] 6. Check voting eligibility for a given age (18+).
-- [ ] 7. Take two numbers and determine whether both are even, both are odd, or one is even and one is odd.
-- [ ] 8. Take an alphabet character and check if it lies between 'a' and 'm' or 'n' and 'z'.
+- [x] 7. Take two numbers and determine whether both are even, both are odd, or one is even and one is odd.
+- [x] 8. Take an alphabet character and check if it lies between 'a' and 'm' or 'n' and 'z'.
 - [ ] 9. Take a day number (1–7) and print the corresponding day name.
 - [ ] 10. Take a month number (1–12) and print the number of days in that month (ignore leap years).
 
