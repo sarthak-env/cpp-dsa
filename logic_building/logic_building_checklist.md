@@ -33,8 +33,8 @@ Topics covered: Relational operators, logical operators, nested if, multiple con
 - [x] 6. Check voting eligibility for a given age (18+).
 - [x] 7. Take two numbers and determine whether both are even, both are odd, or one is even and one is odd.
 - [x] 8. Take an alphabet character and check if it lies between 'a' and 'm' or 'n' and 'z'.
-- [ ] 9. Take a day number (1–7) and print the corresponding day name.
-- [ ] 10. Take a month number (1–12) and print the number of days in that month (ignore leap years).
+- [x] 9. Take a day number (1–7) and print the corresponding day name.
+- [x] 10. Take a month number (1–12) and print the number of days in that month (ignore leap years).
 
 ### 🟠 Level 3: Math and Number Logic
 - [ ] 1. Take a 3-digit number and check if all digits are distinct.
