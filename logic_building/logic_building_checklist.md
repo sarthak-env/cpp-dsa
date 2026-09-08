@@ -40,7 +40,7 @@ Topics covered: Relational operators, logical operators, nested if, multiple con
 - [x] 1. Take a 3-digit number and check if all digits are distinct.
 - [x] 2. Take a 3-digit number and determine if the middle digit is the largest, smallest, or neither.
 - [x] 3. Take a 4-digit number and check if the first and last digits are equal.
-- [ ] 4. Check whether a given integer is single-digit, double-digit, or multi-digit.
+- [x] 4. Check whether a given integer is single-digit, double-digit, or multi-digit.
 - [ ] 5. Check if a number is a multiple of 7 or ends with 7.
 - [ ] 6. Take coordinates (x, y) and determine which quadrant the point lies in.
 - [ ] 7. Check if an amount can be evenly divided into 2000, 500, and 100 currency notes.
