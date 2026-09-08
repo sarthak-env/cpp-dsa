@@ -8,6 +8,7 @@ using namespace std;
 
 int main(){
     string number_three_digits;
+    
     cout<<"Enter the three numbers:"<<endl;
     cin>>number_three_digits;
 
