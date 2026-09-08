@@ -37,8 +37,8 @@ Topics covered: Relational operators, logical operators, nested if, multiple con
 - [x] 10. Take a month number (1–12) and print the number of days in that month (ignore leap years).
 
 ### 🟠 Level 3: Math and Number Logic
-- [ ] 1. Take a 3-digit number and check if all digits are distinct.
-- [ ] 2. Take a 3-digit number and determine if the middle digit is the largest, smallest, or neither.
+- [x] 1. Take a 3-digit number and check if all digits are distinct.
+- [x] 2. Take a 3-digit number and determine if the middle digit is the largest, smallest, or neither.
 - [ ] 3. Take a 4-digit number and check if the first and last digits are equal.
 - [ ] 4. Check whether a given integer is single-digit, double-digit, or multi-digit.
 - [ ] 5. Check if a number is a multiple of 7 or ends with 7.
