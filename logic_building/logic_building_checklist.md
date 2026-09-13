@@ -49,8 +49,8 @@ Topics covered: Relational operators, logical operators, nested if, multiple con
 - [x] 10. Check whether a number is a perfect square (without using the square root function).
 
 ### 🟢 Level 4: Logical Operators & Compound Statements
-- [ ] 1. Take a character and check if it is a letter, a digit, or neither.
-- [ ] 2. Take a number and print "Fizz" if divisible by 3, "Buzz" if divisible by 5, and "FizzBuzz" if divisible by both.
+- [x] 1. Take a character and check if it is a letter, a digit, or neither.
+- [x] 2. Take a number and print "Fizz" if divisible by 3, "Buzz" if divisible by 5, and "FizzBuzz" if divisible by both.
 - [ ] 3. Take three numbers and print the median value (neither maximum nor minimum).
 - [ ] 4. Take 24-hour time (hours and minutes) and print whether it is AM or PM.
 - [ ] 5. Take income and age, and check if eligible for tax (age > 18 and income > 5 L).
