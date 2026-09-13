@@ -57,7 +57,7 @@ Topics covered: Relational operators, logical operators, nested if, multiple con
 - [x] 6. Take two numbers and check if both are positive and their sum is less than 100.
 - [x] 7. Take a single digit (0–9) and print its word form ("Zero" to "Nine").
 - [x] 8. Take a weekday number (1–7) and determine if it is a weekday or weekend.
-- [ ] 9. Take electricity units consumed and calculate the bill as per slabs (using if-else).
+- [x] 9. Take electricity units consumed and calculate the bill as per slabs (using if-else).
 - [ ] 10. Take a password string and check basic rules (length ≥ 8 and contains at least one digit).
 
 ### 🔴 Level 5: Creative / Tricky Logical Scenarios
