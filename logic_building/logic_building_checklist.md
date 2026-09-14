@@ -64,7 +64,7 @@ Topics covered: Relational operators, logical operators, nested if, multiple con
 - [x] 1. Take coordinates (x, y) and check if the point lies on the X-axis, Y-axis, or at the origin.
 - [x] 2. Take three numbers and check if they can form a Pythagorean triplet.
 - [x] 3. Take day and month and check if it forms a valid calendar date (ignoring leap years).
-- [ ] 4. Take time (hours and minutes) and print the smaller angle between the hour and minute hands.
+- [x] 4. Take time (hours and minutes) and print the smaller angle between the hour and minute hands.
 - [ ] 5. Take three numbers and check if they are in arithmetic progression.
 - [ ] 6. Take three numbers and check if they are in geometric progression.
 - [ ] 7. Take a 3-digit number and check if the sum of the first and last digit equals the middle digit.
