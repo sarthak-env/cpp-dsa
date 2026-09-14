@@ -66,7 +66,7 @@ Topics covered: Relational operators, logical operators, nested if, multiple con
 - [x] 3. Take day and month and check if it forms a valid calendar date (ignoring leap years).
 - [x] 4. Take time (hours and minutes) and print the smaller angle between the hour and minute hands.
 - [x] 5. Take three numbers and check if they are in arithmetic progression.
-- [ ] 6. Take three numbers and check if they are in geometric progression.
+- [x] 6. Take three numbers and check if they are in geometric progression.
 - [ ] 7. Take a 3-digit number and check if the sum of the first and last digit equals the middle digit.
 - [ ] 8. Take an integer (1–9999) and check if the sum of its digits is greater than the product of its digits.
 - [ ] 9. Take two dates (day and month) and determine which one comes first in the calendar.
