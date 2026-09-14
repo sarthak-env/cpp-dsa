@@ -68,7 +68,7 @@ Topics covered: Relational operators, logical operators, nested if, multiple con
 - [x] 5. Take three numbers and check if they are in arithmetic progression.
 - [x] 6. Take three numbers and check if they are in geometric progression.
 - [x] 7. Take a 3-digit number and check if the sum of the first and last digit equals the middle digit.
-- [ ] 8. Take an integer (1–9999) and check if the sum of its digits is greater than the product of its digits.
+- [x] 8. Take an integer (1–9999) and check if the sum of its digits is greater than the product of its digits.
 - [ ] 9. Take two dates (day and month) and determine which one comes first in the calendar.
 - [ ] 10. Take a year and print the corresponding century (e.g., "19th century", "20th century").
 
