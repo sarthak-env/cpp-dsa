@@ -86,7 +86,7 @@ Topics covered: for, while, nested loops, break/continue, mathematical series.
 - [x] 5. Print the table of a given number (n × 1 to n × 10).
 - [x] 6. Print the sum of first n natural numbers.
 - [x] 7. Print the sum of all even numbers up to n.
-- [ ] 8. Print the sum of all odd numbers up to n.
+- [x] 8. Print the sum of all odd numbers up to n.
 - [ ] 9. Print the factorial of a given number.
 - [ ] 10. Print the product of digits of a given number.
 
