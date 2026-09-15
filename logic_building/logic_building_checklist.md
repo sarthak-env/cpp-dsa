@@ -80,7 +80,7 @@ Topics covered: for, while, nested loops, break/continue, mathematical series.
 
 ### 🟢 Level 1: Basic Looping (Introductory)
 - [x] 1. Print numbers from 1 to 10.
-- [ ] 2. Print all even numbers between 1 and 100.
+- [x] 2. Print all even numbers between 1 and 100.
 - [ ] 3. Print all odd numbers between 1 and 100.
 - [ ] 4. Print numbers from 10 down to 1.
 - [ ] 5. Print the table of a given number (n × 1 to n × 10).
