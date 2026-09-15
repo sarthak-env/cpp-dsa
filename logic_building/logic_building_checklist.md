@@ -82,7 +82,7 @@ Topics covered: for, while, nested loops, break/continue, mathematical series.
 - [x] 1. Print numbers from 1 to 10.
 - [x] 2. Print all even numbers between 1 and 100.
 - [x] 3. Print all odd numbers between 1 and 100.
-- [ ] 4. Print numbers from 10 down to 1.
+- [x] 4. Print numbers from 10 down to 1.
 - [ ] 5. Print the table of a given number (n × 1 to n × 10).
 - [ ] 6. Print the sum of first n natural numbers.
 - [ ] 7. Print the sum of all even numbers up to n.
