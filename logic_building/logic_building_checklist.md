@@ -95,7 +95,7 @@ Topics covered: for, while, nested loops, break/continue, mathematical series.
 - [x] 2. Print the reverse of a given number.
 - [x] 3. Check if a number is a palindrome.
 - [x] 4. Find the sum of digits of a number.
-- [ ] 5. Check if a number is an Armstrong number.
+- [x] 5. Check if a number is an Armstrong number.
 - [ ] 6. Check if a number is a perfect number.
 - [ ] 7. Print all prime numbers between 1 and 100.
 - [ ] 8. Check if a number is prime or not.
