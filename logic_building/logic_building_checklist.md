@@ -91,7 +91,7 @@ Topics covered: for, while, nested loops, break/continue, mathematical series.
 - [x] 10. Print the product of digits of a given number.
 
 ### 🟡 Level 2: Number-based Looping Logic
-- [ ] 1. Count the number of digits in a given number.
+- [x] 1. Count the number of digits in a given number.
 - [ ] 2. Print the reverse of a given number.
 - [ ] 3. Check if a number is a palindrome.
 - [ ] 4. Find the sum of digits of a number.
