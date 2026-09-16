@@ -93,7 +93,7 @@ Topics covered: for, while, nested loops, break/continue, mathematical series.
 ### 🟡 Level 2: Number-based Looping Logic
 - [x] 1. Count the number of digits in a given number.
 - [x] 2. Print the reverse of a given number.
-- [ ] 3. Check if a number is a palindrome.
+- [x] 3. Check if a number is a palindrome.
 - [ ] 4. Find the sum of digits of a number.
 - [ ] 5. Check if a number is an Armstrong number.
 - [ ] 6. Check if a number is a perfect number.
