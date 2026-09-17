@@ -100,7 +100,7 @@ Topics covered: for, while, nested loops, break/continue, mathematical series.
 - [x] 7. Print all prime numbers between 1 and 100.
 - [x] 8. Check if a number is prime or not.
 - [x] 9. Print Fibonacci series up to n terms.
-- [ ] 10. Print sum of first n terms of Fibonacci series.
+- [x] 10. Print sum of first n terms of Fibonacci series.
 
 ### 🟠 Level 3: Mathematical & Logical Patterns
 - [ ] 1. Print the squares of numbers from 1 to n.
