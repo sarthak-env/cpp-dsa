@@ -1,0 +1,70 @@
+[33mfeb18dc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to HEAD~3
+[33macd1662[m HEAD@{1}: reset: moving to HEAD~3
+[33m82035f3[m HEAD@{2}: commit: solved 2.2.7 — print all prime numbers between 1 and 100
+[33m567cc58[m HEAD@{3}: reset: moving to HEAD~1
+[33m3334c54[m HEAD@{4}: commit: solved 2.2.7 — print all prime numbers between 1 and 100
+[33m567cc58[m HEAD@{5}: commit: solved 2.2.6 — check if a number is a perfect number
+[33mb303d48[m HEAD@{6}: commit: solved 2.2.5 — check if a number is an Armstrong number
+[33macd1662[m HEAD@{7}: commit: solved 2.2.4 — find the sum of digits of a number
+[33m3b10a1e[m HEAD@{8}: commit: solved 2.2.3 — check if a number is a palindrome
+[33m09270e8[m HEAD@{9}: commit: solved 2.2.2 — print the reverse of a given number
+[33mfeb18dc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{10}: commit: solved 2.2.1 — count the number of digits in a given number
+[33m67628d2[m HEAD@{11}: commit: solved 2.1.10 — print the product of digits of a given number
+[33m2a0a1ff[m HEAD@{12}: commit: solved 2.1.9 — print the factorial of a given number
+[33m4a95117[m HEAD@{13}: commit: solved 2.1.8 — print the sum of all odd numbers up to n
+[33m1f9878b[m HEAD@{14}: commit: solved 2.1.7 — print the sum of all even numbers up to n
+[33m5775b27[m HEAD@{15}: commit: solved 2.1.6 — print the sum of first n natural numbers
+[33m9252edf[m HEAD@{16}: commit: solved 2.1.5 — print the multiplication table of a given number (n x 1 to n x 10)
+[33m7306e73[m HEAD@{17}: commit: solved 2.1.4 — print numbers from 10 down to 1
+[33mc6a94ac[m HEAD@{18}: commit: solved 2.1.3 — print all odd numbers between 1 and 100
+[33m3a2846a[m HEAD@{19}: commit: solved 2.1.2 — print all even numbers between 1 and 100
+[33m997b94d[m HEAD@{20}: commit: solved 2.1.1 — print numbers from 1 to 10
+[33m743ca26[m HEAD@{21}: commit: solved 1.5.10 — print the century for a given year
+[33m57088c5[m HEAD@{22}: commit: solved 1.5.9 — compare two dates (day, month) to determine which comes first
+[33me0b4d67[m HEAD@{23}: commit: solved 1.5.8 — check if the sum of a number's digits is greater than their product
+[33maefab1b[m HEAD@{24}: commit: solved 1.5.7 — check if the sum of the first and last digit equals the middle digit
+[33ma6059bb[m HEAD@{25}: commit: solved 1.5.6 — check if three numbers are in geometric progression
+[33m797bf9b[m HEAD@{26}: commit: solved 1.5.5 — check if three numbers are in arithmetic progression
+[33m1fe305c[m HEAD@{27}: commit: solved 1.5.4 — print the smaller angle between the hour and minute hands of a clock
+[33m73fd72c[m HEAD@{28}: commit: solved 1.5.3 — check if a day and month form a valid calendar date (ignoring leap years)
+[33m91b3612[m HEAD@{29}: commit: solved 1.5.2 — check if three numbers can form a Pythagorean triplet
+[33m53773a7[m HEAD@{30}: commit: solved 1.5.1 — check if a point lies on the x-axis, y-axis, or at the origin
+[33m0026f44[m HEAD@{31}: commit: solved 1.4.10 — validate a password (length >= 8 and contains at least one digit)
+[33m65861e7[m HEAD@{32}: commit: solved 1.4.9 — calculate electricity bill based on unit slabs
+[33m2eaaef2[m HEAD@{33}: commit: solved 1.4.8 — check if a weekday number (1-7) is a weekday or weekend
+[33mf806848[m HEAD@{34}: commit: solved 1.4.7 — convert a single digit (0-9) to its word form
+[33mfa94172[m HEAD@{35}: commit (amend): solved 1.4.6 — check if both numbers are positive and their sum is less than 100
+[33m3d22a9c[m HEAD@{36}: commit: solved 1.4.5 — check tax eligibility based on age and income
+[33m1054d44[m HEAD@{37}: commit: solved 1.4.5 — check tax eligibility based on age and income
+[33m402a682[m HEAD@{38}: commit: solved 1.4.4 — determine AM or PM from 24-hour time
+[33m52ecd2b[m HEAD@{39}: commit: solved 1.4.3 — print the median of three numbers
+[33m010ad02[m HEAD@{40}: commit: solved 1.4.2 — FizzBuzz: print Fizz, Buzz, or FizzBuzz based on divisibility by 3 and 5
+[33m14e7358[m HEAD@{41}: commit: solved 1.4.1 — check if a character is a letter, a digit, or neither
+[33m9c87035[m HEAD@{42}: commit (amend): solved 1.3.10 — check if a number is a perfect square without using sqrt()
+[33m49687bc[m HEAD@{43}: commit: solved 1.3.9 — compute the third angle of a triangle given two angles
+[33m7946ce2[m HEAD@{44}: commit: solved 1.3.9 — compute the third angle of a triangle given two angles
+[33m29b95b5[m HEAD@{45}: commit: solved 1.3.8 — check if a number lies within the range [100, 999]
+[33m4405656[m HEAD@{46}: commit: solved 1.3.7 — check if an amount can be evenly split into 2000/500/100 notes
+[33m088190f[m HEAD@{47}: commit: solved 1.3.6 — determine which quadrant a point (x, y) lies in
+[33m08797a8[m HEAD@{48}: commit: solved 1.3.5 — check if a number is a multiple of 7 or ends with 7
+[33m1ccfb2f[m HEAD@{49}: commit: solved 1.3.4 — classify a number as single-digit, double-digit, or multi-digit
+[33m87bb54f[m HEAD@{50}: commit: solved 1.3.3 — check if the first and last digits of a 4-digit number are equal
+[33m711b424[m HEAD@{51}: commit: solved 1.3.2 — determine if the middle digit is largest, smallest, or neither
+[33mc21ef70[m HEAD@{52}: commit: solved 1.3.1 — check if all digits of a 3-digit number are distinct
+[33mf58e232[m HEAD@{53}: commit: solved 1.2.10 — print number of days in a given month (ignoring leap years)
+[33m16bffac[m HEAD@{54}: commit: solved 1.2.9 — convert a day number (1-7) to its day name
+[33m632baec[m HEAD@{55}: commit: solved 1.2.8 — check if a character lies between a-m or n-z
+[33mdec4e47[m HEAD@{56}: commit: solved 1.2.7 — check if two numbers are both even, both odd, or mixed
+[33mb2244cb[m HEAD@{57}: commit: solved 1.2.6 — check voting eligibility for a given age (18+)
+[33m0516697[m HEAD@{58}: commit: solved 1.2.5 — print greeting based on hour of the day (0-23)
+[33m371dc4a[m HEAD@{59}: commit: solved 1.2.4 — check if one number is a multiple of the other
+[33mfdf7a12[m HEAD@{60}: commit: solved 1.2.3 — convert marks (0-100) to a grade (A/B/C/D/F)
+[33m13e4223[m HEAD@{61}: commit: solved 1.2.2 — determine triangle type (equilateral, isosceles, or scalene)
+[33mf6739ab[m HEAD@{62}: commit: solved 1.2.1 — check if three sides form a valid triangle
+[33m0366701[m HEAD@{63}: commit: solved 1.1.10 — check if a character is uppercase, lowercase, a digit, or a special character
+[33mcdc62f2[m HEAD@{64}: commit: solved 1.1.9 — check if a character is a vowel or consonant
+[33m60fe167[m HEAD@{65}: commit: solved 1.1.8 — classify temperature as cold, warm, or hot
+[33m42543b1[m HEAD@{66}: commit: solved 1.1.7 — print the largest of three numbers
+[33mf47bd36[m HEAD@{67}: commit: solved 1.1.6 — print the larger of two numbers
+[33mb5d1e69[m HEAD@{68}: commit: solved 1.1.5 — check if a given year is a leap year
+[33m8617f39[m HEAD@{69}: clone: from https://github.com/sarthak-env/cpp-dsa.git
