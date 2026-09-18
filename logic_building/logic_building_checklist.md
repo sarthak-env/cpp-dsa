@@ -105,7 +105,7 @@ Topics covered: for, while, nested loops, break/continue, mathematical series.
 ### 🟠 Level 3: Mathematical & Logical Patterns
 - [x] 1. Print the squares of numbers from 1 to n.
 - [x] 2. Print cubes of numbers from 1 to n.
-- [ ] 3. Print all numbers between a and b divisible by 7.
+- [x] 3. Print all numbers between a and b divisible by 7.
 - [ ] 4. Find HCF (GCD) of two numbers using loops.
 - [ ] 5. Find LCM of two numbers using loops.
 - [ ] 6. Print all factors of a given number.
