@@ -103,7 +103,7 @@ Topics covered: for, while, nested loops, break/continue, mathematical series.
 - [x] 10. Print sum of first n terms of Fibonacci series.
 
 ### 🟠 Level 3: Mathematical & Logical Patterns
-- [ ] 1. Print the squares of numbers from 1 to n.
+- [x] 1. Print the squares of numbers from 1 to n.
 - [ ] 2. Print cubes of numbers from 1 to n.
 - [ ] 3. Print all numbers between a and b divisible by 7.
 - [ ] 4. Find HCF (GCD) of two numbers using loops.
