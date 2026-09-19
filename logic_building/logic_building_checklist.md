@@ -107,7 +107,7 @@ Topics covered: for, while, nested loops, break/continue, mathematical series.
 - [x] 2. Print cubes of numbers from 1 to n.
 - [x] 3. Print all numbers between a and b divisible by 7.
 - [x] 4. Find HCF (GCD) of two numbers using loops.
-- [ ] 5. Find LCM of two numbers using loops.
+- [x] 5. Find LCM of two numbers using loops.
 - [ ] 6. Print all factors of a given number.
 - [ ] 7. Find the sum of all factors of a number.
 - [ ] 8. Check if a number is a strong number (sum of factorials of digits = number).
