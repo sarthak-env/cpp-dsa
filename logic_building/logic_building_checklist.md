@@ -112,7 +112,7 @@ Topics covered: for, while, nested loops, break/continue, mathematical series.
 - [x] 7. Find the sum of all factors of a number.
 - [x] 8. Check if a number is a strong number (sum of factorials of digits = number).
 - [x] 9. Print first n terms of an arithmetic progression (a, d).
-- [ ] 10. Print first n terms of a geometric progression (a, r).
+- [x] 10. Print first n terms of a geometric progression (a, r).
 
 ### 🔵 Level 4: Pattern Printing (Stars & Numbers)
 (These train nested loop thinking — must-do for logic growth.)
