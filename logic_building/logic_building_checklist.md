@@ -109,7 +109,7 @@ Topics covered: for, while, nested loops, break/continue, mathematical series.
 - [x] 4. Find HCF (GCD) of two numbers using loops.
 - [x] 5. Find LCM of two numbers using loops.
 - [X] 6. Print all factors of a given number.
-- [ ] 7. Find the sum of all factors of a number.
+- [x] 7. Find the sum of all factors of a number.
 - [ ] 8. Check if a number is a strong number (sum of factorials of digits = number).
 - [ ] 9. Print first n terms of an arithmetic progression (a, d).
 - [ ] 10. Print first n terms of a geometric progression (a, r).
