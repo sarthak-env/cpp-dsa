@@ -116,8 +116,8 @@ Topics covered: for, while, nested loops, break/continue, mathematical series.
 
 ### 🔵 Level 4: Pattern Printing (Stars & Numbers)
 - [x] 1. Print a single star (*).
-- [ ] 2. Print four stars (****) in one line.
-- [ ] 3. Print n stars on the same line.
+- [x] 2. Print four stars (****) in one line.
+- [x] 3. Print n stars on the same line.
 - [ ] 4. Print a square of stars (n × n).
 - [ ] 5. Print an increasing triangle of stars (row i has i stars).
 - [ ] 6. Print a right-aligned triangle of stars.
