@@ -118,7 +118,7 @@ Topics covered: for, while, nested loops, break/continue, mathematical series.
 - [x] 1. Print a single star (*).
 - [x] 2. Print four stars (****) in one line.
 - [x] 3. Print n stars on the same line.
-- [ ] 4. Print a square of stars (n × n).
+- [x] 4. Print a square of stars (n × n).
 - [ ] 5. Print an increasing triangle of stars (row i has i stars).
 - [ ] 6. Print a right-aligned triangle of stars.
 - [ ] 7. Print stars in even numbers per row (2, 4, 6, 8, 10).
