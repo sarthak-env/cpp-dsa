@@ -115,9 +115,31 @@ Topics covered: for, while, nested loops, break/continue, mathematical series.
 - [x] 10. Print first n terms of a geometric progression (a, r).
 
 ### 🔵 Level 4: Pattern Printing (Stars & Numbers)
-(These train nested loop thinking — must-do for logic growth.)
-- [ ] Solve this Sheet for Star printing Practice: STRONG YOUR LOGIC BUILDING .pdf
-
+- [x] 1. Print a single star (*).
+- [ ] 2. Print four stars (****) in one line.
+- [ ] 3. Print n stars on the same line.
+- [ ] 4. Print a square of stars (n × n).
+- [ ] 5. Print an increasing triangle of stars (row i has i stars).
+- [ ] 6. Print a right-aligned triangle of stars.
+- [ ] 7. Print stars in even numbers per row (2, 4, 6, 8, 10).
+- [ ] 8. Print stars in odd numbers per row (1, 3, 5, 7, 9).
+- [ ] 9. Print a centered pyramid of stars.
+- [ ] 10. Print a pyramid where stars and blank spaces alternate in each row (use 'b' for a blank: bbbb*, bbb*b*, bb*b*b*, …).
+- [ ] 11. Print numbers in an increasing sequence (1, 12, 123, 1234, 12345).
+- [ ] 12. Print the same number repeated in each row (1, 22, 333, 4444, 55555).
+- [ ] 13. Print consecutive numbers in a triangle (1 / 2 3 / 4 5 6 / 7 8 9 10 / 11 12 13 14 15).
+- [ ] 14. Print consecutive numbers in a 7-row triangle, keeping only the last digit of each number (wraps from 9 to 0).
+- [ ] 15. Print a triangle of alternating 1s and 0s that continues across rows (1 / 0 1 / 0 1 0 / 1 0 1 0 / 1 0 1 0 1).
+- [ ] 16. Print a triangle of consecutive alphabets (A / B C / D E F / G H I J / K L M N O).
+- [ ] 17. Print a triangle where each row repeats its own alphabet (A / B B / C C C / D D D D / E E E E E).
+- [ ] 18. Print an increasing triangle of alphabets starting from A in every row (A / A B / A B C / A B C D / A B C D E).
+- [ ] 19. Print a centered pyramid of continuous alphabets (A / BCD / EFGHI / JKLMNOP / QRSTUVWXY).
+- [ ] 20. Print an increasing triangle of numbers from 1 to i in each row (1 / 12 / 123 / 1234 / 12345).
+- [ ] 21. Print a centered number pyramid that goes up and then back down in each row (1 / 121 / 12321 / 1234321 / 123454321).
+- [ ] 22. Print a right-facing half diamond of stars (1 to n stars, then n−1 back down to 1).
+- [ ] 23. Print a triangle of stars that grows from 1 to n and then shrinks from n back to 1 (the widest row appears twice).
+- [ ] 24. Print a diamond of stars (a centered pyramid followed by an inverted centered pyramid).
+- [ ] 25. Print a centered number pyramid that counts down from n and back up in each row (5 / 545 / 54345 / 5432345 / 543212345).
 ### 🔴 Level 5: Logical Loop Combinations
 - [ ] 1. Print all numbers whose sum of digits is even (1–100).
 - [ ] 2. Count how many numbers between 1–500 are divisible by 7 but not by 5.
