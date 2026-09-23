@@ -120,7 +120,7 @@ Topics covered: for, while, nested loops, break/continue, mathematical series.
 - [x] 3. Print n stars on the same line.
 - [x] 4. Print a square of stars (n × n).
 - [x] 5. Print an increasing triangle of stars (row i has i stars).
-- [ ] 6. Print a right-aligned triangle of stars.
+- [x] 6. Print a right-aligned triangle of stars.
 - [ ] 7. Print stars in even numbers per row (2, 4, 6, 8, 10).
 - [ ] 8. Print stars in odd numbers per row (1, 3, 5, 7, 9).
 - [ ] 9. Print a centered pyramid of stars.
