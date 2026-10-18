@@ -10,10 +10,12 @@ int main(){
     cout<<"The data is "<<data<<endl;
     cout<<"The data is stored in the location "<<data_ptr<<endl;
 
+    cout<<"The value of the data is "<<*data_ptr<<endl;
+
     return 0;
 }
 /*
 Here, 
-- 1.* --> The asterisk (*) is used to declare a pointer variable.
-- 2.& --> The ampersand (&) is used to get the address of a variable.
+- 1.* --> The asterisk (*) is used to declare a pointer variable.(Finds the address of the variable)
+- 2.& --> The ampersand (&) is used to get the address of a variable.(Finds the value of the variable)
 */
